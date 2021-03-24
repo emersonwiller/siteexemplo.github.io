@@ -1,4 +1,3 @@
 # siteexemplo.github.io
-ok
-ggggg
-hugjgy
+
+Site de exemplo para a Academia do Programação
